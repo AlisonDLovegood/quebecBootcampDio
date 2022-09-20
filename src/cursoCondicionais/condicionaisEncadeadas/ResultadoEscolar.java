@@ -1,6 +1,6 @@
 package cursoCondicionais.condicionaisEncadeadas;
 
-public class resultadoEscolar {
+public class ResultadoEscolar {
     public static void main(String[] args) {
         double nota = 8;
 

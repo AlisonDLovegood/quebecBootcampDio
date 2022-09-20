@@ -2,7 +2,7 @@ package cursoExcecoes;
 import java.text.NumberFormat;
 import java.text.ParseException;
 
-public class conversao {
+public class Conversao {
     public static void main(String[] args) {
         Number valor;
         try {

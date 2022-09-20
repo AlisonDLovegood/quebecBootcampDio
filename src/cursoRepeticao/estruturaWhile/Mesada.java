@@ -1,6 +1,6 @@
 package cursoRepeticao.estruturaWhile;
 import java.util.concurrent.ThreadLocalRandom;
-public class mesada {
+public class Mesada {
     public static void main(String[] args) {
         double mesada = 50.0;
 

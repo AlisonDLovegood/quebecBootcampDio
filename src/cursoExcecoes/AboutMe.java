@@ -4,7 +4,7 @@ import java.util.InputMismatchException;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class aboutMe {
+public class AboutMe {
     public static void main(String[] args) {
         try {
             Scanner scanner = new Scanner(System.in).useLocale(Locale.US);

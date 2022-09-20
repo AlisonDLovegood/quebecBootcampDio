@@ -1,6 +1,6 @@
 package cursoRepeticao.estruturaFor;
 
-public class dentroArray {
+public class DentroArray {
     public static void main(String[] args) {
         String alunos[] = {"jony", "lucas", "deda"};
 

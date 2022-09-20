@@ -1,6 +1,6 @@
 package cursoRepeticao.estruturaWhile;
 import java.util.Random;
-public class ligacao {
+public class Ligacao {
     public static void main(String[] args) {
         System.out.println("discando...");
         do {

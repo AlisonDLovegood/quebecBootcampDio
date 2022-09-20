@@ -1,17 +1,17 @@
 package cursoExcecoes;
 
-public class formatarCep {
+public class FormatarCep {
     public static void main(String[] args) {
         try {
             String cepFormatado = formatarCepp("23765064");
             System.out.println(cepFormatado);
-        }catch (cepInvalidoException e){
+        }catch (CepInvalidoException e){
             e.printStackTrace();
         }
     }
-    static String formatarCepp(String cep) throws cepInvalidoException {
+    static String formatarCepp(String cep) throws CepInvalidoException {
         if (cep.length()!=8)
-            throw new cepInvalidoException();
+            throw new CepInvalidoException();
 
         return "23.765-064";
     }
