@@ -1,4 +1,4 @@
-package cursoCollections.metodosList;
+package cursoCollections.lists.metodosList;
 
 import java.util.*;
 

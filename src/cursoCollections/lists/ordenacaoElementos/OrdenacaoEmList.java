@@ -1,4 +1,4 @@
-package cursoCollections.ordenacaoElementos;
+package cursoCollections.lists.ordenacaoElementos;
 
 /*Dadas as seguintes informações sobre meus gatos, crie uma lista
 e ordene esta lista exibindo:
