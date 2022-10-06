@@ -1,4 +1,4 @@
-package cursoCollections.lists.ordenacaoElementos;
+package cursoCollections.lists.ordenacaoList;
 
 import java.util.ArrayList;
 import java.util.Iterator;

@@ -1,4 +1,4 @@
-package cursoCollections.set;
+package cursoCollections.set.metodosSet;
 
 import java.util.*;
 
