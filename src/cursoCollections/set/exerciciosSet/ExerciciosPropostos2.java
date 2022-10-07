@@ -1,4 +1,4 @@
-package cursoCollections.set.ordenacaoSet;
+package cursoCollections.set.exerciciosSet;
 
 import java.util.*;
 
