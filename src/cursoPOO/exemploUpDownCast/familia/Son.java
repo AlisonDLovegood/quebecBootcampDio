@@ -1,0 +1,15 @@
+package cursoPOO.exemploUpDownCast.familia;
+
+class Son extends Mom{
+
+    @Override
+    void metodo1() {
+        System.out.println("Método 1 da Classe Filha 2");
+    }
+
+    @Override
+    void metodo2() {
+        System.out.println("Método 2 da Classe Filha 2");
+    }
+
+}
